@@ -1,5 +1,4 @@
-# dl_hwassignment
-AI6103 Deep Learning Homework Assignment
+# AI6103 Deep Learning Homework Assignment
 
 In this homework assignment, I investigated the effects of hyperparameters such as initial learning rate, learning rate schedule, weight decay, and data augmentation on deep neural networks.
 I used the MobileNet network and the CIFAR-100 dataset for this assignment. 
